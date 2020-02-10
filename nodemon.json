@@ -1,0 +1,10 @@
+{
+
+    "env" : {
+
+        "MONGO_DB_PASS" : "LaLa",
+        "JWT_SECRET_KEY" : "Secret"
+
+    }
+
+}
